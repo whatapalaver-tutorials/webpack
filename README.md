@@ -2,6 +2,6 @@
 
 Working through the [guide](https://what-problem-does-it-solve.com/webpack/intro.html)
 
-- CLI invocation: `./node_modules/.bin/webpack --mode=none --entry ./js/index.js  --output-filename=bundle.js`
-- After webpack.config: `./node_modules/.bin/webpack`
-- After package.json script: `yarn webpack`
+- install packages with `yarn`
+- run `yarn webpack` to compile javascript
+- write some markdown in the text field and then hit preview
